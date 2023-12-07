@@ -1,0 +1,44 @@
+.fa{
+    border-radius: 100%;
+    padding: 12px;
+    font-size: 50px;
+    width: 75px;
+    text-align: center;
+    text-decoration: none;
+  }
+  
+  /* Add a hover effect if you want /
+  .fa:hover {
+    opacity: 0.7;
+  }
+  
+  / Set a specific color for each brand /
+  
+  / Facebook  */
+  .fa-facebook {
+    background: #3b5998;
+    color: white;
+  }
+  
+  /* Twitter */
+  .fa-twitter {
+    background: white;
+    color: #00acee;
+  }
+
+.fa-instagram {
+    border-radius: 100%;
+    background: radial-gradient(
+        circle at 33% 100%,
+        #fed373 4%,
+        #f15245 30%,
+        #d92e7f 62%,
+        #9b36b7 85%,
+        #515ecf);
+    color: white;
+  }
+
+  .fa-linkedin {
+  background: #007bb5;
+  color: white;
+}
